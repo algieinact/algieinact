@@ -1,6 +1,6 @@
 ###
 
-<h1 align="left">Hey there👋, Algie is here!</h1>
+<h1 align="center">Hey there👋, Algie is here!</h1>
 
 ###
 
